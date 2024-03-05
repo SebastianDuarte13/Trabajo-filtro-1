@@ -1,0 +1,5307 @@
+{
+    "activos": {},
+    "personal": {},
+    "zonas": {},
+    "asignaciones": {},
+    "": {
+        "codtransaccion": "",
+        "NroFormulario": "",
+        "nombre": "",
+        "cod campus": "",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "",
+        "valorunitario": "",
+        "proveedor": "campulands",
+        "nroserial": "",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CodCampus": {
+        "codtransaccion": "CodTransaccion",
+        "NroFormulario": "NroFormulario",
+        "nombre": "Nombre",
+        "cod campus": "CodCampus",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "tipo",
+        "valorunitario": "Valor unitario",
+        "proveedor": "campulands",
+        "nroserial": "NroSerial",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU001": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "CPU001",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39173",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON001": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MON001",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070723",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC001": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "TEC001",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130091706",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU001": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MOU001",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU002": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "CPU002",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39208",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON002": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MON002",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070880",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC002": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "TEC002",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130090718",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU002": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MOU002",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU003": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "CPU003",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39182",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON003": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MON003",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070018",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC003": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "TEC003",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130090717",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU003": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MOU003",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU004": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "CPU004",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39190",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON004": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MON004",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070876",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC004": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "TEC004",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130090719",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU004": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MOU004",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU005": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "CPU005",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39186",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON005": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MON005",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070838",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC005": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "TEC005",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130091718",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU005": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MOU005",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU006": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "CPU006",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39198",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON006": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MON006",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070638",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC006": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "TEC006",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130091719",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU006": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MOU006",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU007": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "CPU007",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "102SN55107",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON007": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MON007",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070037",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC007": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "TEC007",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130091731",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU007": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MOU007",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU008": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "CPU008",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "102SN55106",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON008": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MON008",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070115",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC008": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "TEC008",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130091732",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU008": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MOU008",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU009": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "CPU009",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39204",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON009": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MON009",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070874",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC009": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "TEC009",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130090731",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU009": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MOU009",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU010": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "CPU010",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39214",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON010": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MON010",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070105",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC010": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "TEC010",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130090732",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU010": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MOU010",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU011": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "CPU011",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39189",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON011": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MON011",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070010",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC011": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "TEC011",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130091733",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU011": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MOU011",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU012": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "CPU012",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39223",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON012": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MON012",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070109",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC012": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "TEC012",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130090703",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU012": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MOU012",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU013": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "CPU013",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39229",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON013": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MON013",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070502",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC013": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "TEC013",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130090708",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU013": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MOU013",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU014": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "CPU014",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39178",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON014": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MON014",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070136",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC014": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "TEC014",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130091708",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU014": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MOU014",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU015": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "CPU015",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39196",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON015": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MON015",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070001",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC015": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "TEC015",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130091707",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU015": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MOU015",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU016": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "CPU016",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "102SN55081",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON016": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MON016",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070846",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC016": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "TEC016",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130090709",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU016": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MOU016",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU017": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "CPU017",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39183",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON017": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MON017",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070211",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC017": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "TEC017",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130091709",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU017": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MOU017",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU018": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "CPU018",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "102SN55098",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON018": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MON018",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070733",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC018": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "TEC018",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130090710",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU018": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MOU018",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU019": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "CPU019",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "102SN55108",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON019": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MON019",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070287",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC019": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "TEC019",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130091748",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU019": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MOU019",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU020": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "CPU020",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39224",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON020": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MON020",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070629",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC020": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "TEC020",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130090748",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU020": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MOU020",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU021": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "CPU021",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39179",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON021": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MON021",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070188",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC021": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "TEC021",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130090749",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU021": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MOU021",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU022": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "CPU022",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "102SN55092",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON022": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MON022",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070050",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC022": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "TEC022",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130090705",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU022": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MOU022",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU023": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "CPU023",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39187",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON023": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MON023",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070663",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC023": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "TEC023",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130090733",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU023": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MOU023",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU024": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "CPU024",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39200",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON024": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MON024",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070705",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC024": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "TEC024",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130091705",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU024": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MOU024",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU025": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "CPU025",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "102SN55091",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON025": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MON025",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070754",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC025": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "TEC025",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130091701",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU025": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MOU025",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU026": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "CPU026",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39237",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON026": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MON026",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070394",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC026": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "TEC026",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130091751",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU026": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MOU026",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU027": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "CPU027",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "102SN55099",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON027": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MON027",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070683",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC027": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "TEC027",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130090751",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU027": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MOU027",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU028": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "CPU028",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39184",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON028": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MON028",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070520",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC028": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "TEC028",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130091717",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU028": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MOU028",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU029": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "CPU029",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39180",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON029": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MON029",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070374",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC029": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "TEC029",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130090704",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU029": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MOU029",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU030": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "CPU030",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39199",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON030": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MON030",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070711",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC030": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "TEC030",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130091715",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU030": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MOU030",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU031": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "CPU031",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "102SN55105",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON031": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MON031",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070043",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC031": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "TEC031",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "UD18J2C00169",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU031": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MOU031",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU032": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "CPU032",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "102SN55097",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON032": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MON032",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070151",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC032": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "TEC032",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130090716",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU032": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MOU032",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU033": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "CPU033",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "102SN55104",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON033": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MON033",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070127",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC033": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "TEC033",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130090715",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU033": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MOU033",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU034": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "CPU034",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "102SN55084",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON034": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MON034",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070029",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC034": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "TEC034",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130091714",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU034": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MOU034",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU035": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "CPU035",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39194",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON035": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MON035",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070135",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC035": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "TEC035",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130090714",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU035": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse - Bodg50-9051-900-0017 GMR ESC   ",
+        "cod campus": "MOU035",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU036": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "CPU036",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39175",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON036": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MON036",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070257",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC036": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "TEC036",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130091739",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU036": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MOU036",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU037": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "CPU037",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39206",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON037": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MON037",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070609",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC037": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "TEC037",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130091743",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU037": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MOU037",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU038": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "CPU038",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39212",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON038": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MON038",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070778",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC038": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "TEC038",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130090742",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU038": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MOU038",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU039": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "CPU039",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39217",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON039": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MON039",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070069",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC039": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "TEC039",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130091742",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU039": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MOU039",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU040": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "CPU040",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39203",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON040": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MON040",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070349",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC040": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "TEC040",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130090743",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU040": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MOU040",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU041": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "CPU041",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39201",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON041": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MON041",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070004",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC041": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "TEC041",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130091710",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU041": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MOU041",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU042": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "CPU042",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39207",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON042": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MON042",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070727",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC042": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "TEC042",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130090728",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU042": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MOU042",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU043": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "CPU043",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39170",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON043": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MON043",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070063",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC043": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "TEC043",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130090729",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU043": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MOU043",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU044": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "CPU044",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39193",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON044": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MON044",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070203",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC044": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "TEC044",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130091734",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU044": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MOU044",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU045": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "CPU045",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39213",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON045": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MON045",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070517",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC045": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "TEC045",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130090735",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU045": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MOU045",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU046": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "CPU046",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39197",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON046": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MON046",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070007",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC046": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "TEC046",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130090734",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU046": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MOU046",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU047": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "CPU047",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "102SN55078",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON047": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MON047",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070008",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC047": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "TEC047",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130090750",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU047": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MOU047",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU048": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "CPU048",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "102SN55085",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON048": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MON048",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070117",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC048": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "TEC048",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130091713",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU048": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MOU048",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU049": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "CPU049",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39233",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON049": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MON049",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070277",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC049": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "TEC049",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130090713",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU049": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MOU049",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU050": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "CPU050",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "102SN55082",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON050": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MON050",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070406",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC050": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "TEC050",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130091712",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU050": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MOU050",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU051": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "CPU051",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "102SN55101",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON051": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MON051",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070557",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC051": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "TEC051",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130091711",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU051": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MOU051",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU052": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "CPU052",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39192",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON052": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MON052",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070853",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC052": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "TEC052",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130090712",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU052": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MOU052",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU053": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "CPU053",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39181",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON053": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MON053",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070893",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC053": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "TEC053",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130090711",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU053": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MOU053",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU054": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "CPU054",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39195",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON054": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MON054",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070898",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC054": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "TEC054",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130091741",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU054": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MOU054",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU055": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "CPU055",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39232",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON055": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MON055",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070400",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC055": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "TEC055",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130091740",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU055": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MOU055",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU056": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "CPU056",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39231",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON056": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MON056",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070761",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC056": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "TEC056",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130090739",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU056": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MOU056",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU057": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "CPU057",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39171",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON057": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MON057",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070534",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC057": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "TEC057",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130090741",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU057": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MOU057",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU058": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "CPU058",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39220",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON058": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MON058",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070017",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC058": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "TEC058",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130091750",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU058": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MOU058",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU059": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "CPU059",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "102SN55100",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON059": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MON059",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070281",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC059": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "TEC059",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130091749",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU059": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MOU059",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU060": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "CPU060",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39236",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON060": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MON060",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070205",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC060": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "TEC060",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130090740",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU060": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MOU060",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU061": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "CPU061",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39216",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON061": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MON061",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070041",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC061": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "TEC061",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130091728",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU061": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MOU061",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU062": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "CPU062",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39176",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON062": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MON062",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070712",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC062": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "TEC062",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130090727",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU062": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MOU062",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU063": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "CPU063",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "102SN55077",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON063": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MON063",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070129",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC063": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "TEC063",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130091727",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU063": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MOU063",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU064": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "CPU064",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39211",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON064": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MON064",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070140",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC064": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "TEC064",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130091726",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU064": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MOU064",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU065": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "CPU065",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39219",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON065": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MON065",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070316",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC065": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "TEC065",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130090725",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU065": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MOU065",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU066": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "CPU066",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "102SN55093",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON066": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MON066",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070153",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC066": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "TEC066",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130090726",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU066": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MOU066",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU067": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "CPU067",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39210",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON067": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MON067",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070744",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC067": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "TEC067",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130091752",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU067": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MOU067",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU068": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "CPU068",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39168",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON068": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MON068",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070830",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC068": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "TEC068",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130090753",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU068": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MOU068",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "CPU069": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "CPU-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "CPU069",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "CPU",
+        "valorunitario": "100000",
+        "proveedor": "campulands",
+        "nroserial": "400SN39191",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MON069": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Monitor-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MON069",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MONITOR",
+        "valorunitario": "50000",
+        "proveedor": "campulands",
+        "nroserial": "COM2024CM21070407",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "TEC069": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Teclado-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "TEC069",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "TECLADO",
+        "valorunitario": "20000",
+        "proveedor": "campulands",
+        "nroserial": "KBM130091753",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "MOU069": {
+        "codtransaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "Mouse-Bodg50-9048-900-0044 GMRESC R3",
+        "cod campus": "MOU069",
+        "marca": "compumax",
+        "categoria": "Equipo de computo",
+        "tipo": "MOUSE",
+        "valorunitario": "10000",
+        "proveedor": "campulands",
+        "nroserial": "Sin serial ",
+        "estado": 0,
+        "HistorialActivo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    },
+    "popo": {
+        "codigo de transaccion": "327",
+        "NroFormulario": "966217823",
+        "nombre": "",
+        "codigo de campus": "popo",
+        "marca": "",
+        "categoria": "",
+        "tipo": "",
+        "valor unitario": "",
+        "proveedor": "",
+        "numero de serial": "",
+        "estado": 0,
+        "Historial Activo": {
+            "NroId": [],
+            "Fecha": [],
+            "tipomov": [],
+            "idrespomov": []
+        }
+    }
+}
